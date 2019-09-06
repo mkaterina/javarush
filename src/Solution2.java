@@ -16,7 +16,7 @@ import java.util.Map;
 Программа должна выводить содержимое коллекции на экран, каждую пару через дефис и с новой строки.
 */
 
-public class Solution {
+public class Solution2 {
     public static void main(String[] args) throws Exception {
         String[] cats = new String[]{"васька", "мурка", "дымка", "рыжик", "серый", "снежок", "босс", "борис", "визя", "гарфи"};
 
