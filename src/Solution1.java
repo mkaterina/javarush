@@ -22,7 +22,7 @@ import java.util.ArrayList;
 Это конец
 */
 
-public class Solution {
+public class Solution1 {
     public static void main(String[] args) throws IOException {
         BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<String> str = new ArrayList<String>();
