@@ -21,7 +21,7 @@ import java.util.*;
 Минимальное из N чисел
 */
 
-public class Solution {
+public class Solution3 {
     public static void main(String[] args) throws Exception {
         List<Integer> integerList = getIntegerList();
         System.out.println(getMinimum(integerList));
