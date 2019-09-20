@@ -21,7 +21,7 @@ import java.util.Collections;
 Программа должна выводить пять наибольших чисел массива. Каждое значение с новой строки.
 */
 
-public class Solution {
+public class Solution3 {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int[] array = new int[20];
